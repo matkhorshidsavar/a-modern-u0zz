@@ -1,0 +1,20 @@
+# MEMORY.md
+
+## App Info
+- Subdomain: a-modern-u0zz
+- Repo: matkhorshidsavar/a-modern-u0zz
+- Created: 2026-06-24T21:18:25.612Z
+
+## Architecture
+(document key decisions here as you build)
+
+## Known Issues
+(none yet)
+
+## Decisions
+(none yet)
+
+## How to Use Memory
+- Update this file with important decisions, architecture choices, and lessons
+- Daily logs go in `memory/2026-06-24.md` (create memory/ dir if needed)
+- Use /compact if context gets long during a session

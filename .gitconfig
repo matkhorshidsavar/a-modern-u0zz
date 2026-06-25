@@ -1,0 +1,7 @@
+[credential]
+	helper = !/home/ec2-user/.openclaw-vibekit/workspaces/app-b7a8496c/.git-credential-helper.sh
+[user]
+	name = VibeKit Agent
+	email = agent@vibekit.bot
+[safe]
+	directory = /home/ec2-user/.openclaw-vibekit/workspaces/app-b7a8496c

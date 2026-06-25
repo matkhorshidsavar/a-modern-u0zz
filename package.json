@@ -1,0 +1,44 @@
+{
+  "name": "bit3un",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.10.0",
+    "@tailwindcss/vite": "^4.3.1",
+    "@tanstack/react-query": "^5.62.8",
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "framer-motion": "^11.15.0",
+    "i18next": "^23.16.8",
+    "lightweight-charts": "^4.2.1",
+    "lucide-react": "^0.468.0",
+    "qrcode.react": "^4.2.0",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.54.2",
+    "react-hot-toast": "^2.5.2",
+    "react-i18next": "^15.4.0",
+    "react-router-dom": "^7.1.5",
+    "recharts": "^2.15.0",
+    "zod": "^3.24.1",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7"
+  }
+}
